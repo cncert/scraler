@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/csv"
 	"fmt"
-	"mytest/src/day3/s7/scraler"
+	"mytest/src/scraler"
 	"os"
 	"sort"
 )
